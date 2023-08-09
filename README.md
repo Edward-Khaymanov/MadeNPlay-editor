@@ -66,7 +66,8 @@ Click `Window/Game creator`
 
 - Custom file format
 - Simplification of the game export stage
-- Support for netcode versions above 1.4.0
+- Support netcode for gameobjects version above 1.4.0
+- Support dedicated servers
 
 
 ## Related
