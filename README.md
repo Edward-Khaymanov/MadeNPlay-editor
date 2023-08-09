@@ -1,7 +1,7 @@
 
 # MadeNPlay Editor
 
-This is a platform for creating multiplayer games in unity
+MadeNPlay is a platform for creating multiplayer games in unity
 
 
 <p align="center">
