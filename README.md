@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    MadeNPlay Editor
+    MadeNPlay editor
 </h1> 
 
 
