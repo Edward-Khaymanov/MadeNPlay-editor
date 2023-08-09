@@ -1,15 +1,18 @@
 
-# MadeNPlay Editor
+<h1 align="center">
+    MadeNPlay Editor
+</h1> 
 
-MadeNPlay is a platform for creating multiplayer games in unity
 
+<p align="center">
+    MadeNPlay is a platform for creating multiplayer games in unity
+</p>
 
 <p align="center">
     <a href="./LICENSE">
         <img src="https://img.shields.io/github/license/Edward-Khaymanov/MadeNPlay-editor?label=license&style=for-the-badge" /> 
     </a>
 </p>
-
 
 ## Requirements
 
