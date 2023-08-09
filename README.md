@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    Editor for games based on the madenplay platform. <br /> 
+    Editor tools for creating games based on the MadeNPlay platform. <br /> 
     MadeNPlay is a platform for creating multiplayer games in unity.
 </p>
 
