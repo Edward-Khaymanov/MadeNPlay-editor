@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    MadeNPlay is a platform for creating multiplayer games in unity
+    Editor for games based on the madenplay platform. MadeNPlay is a platform for creating multiplayer games in unity.
 </p>
 
 <p align="center">
